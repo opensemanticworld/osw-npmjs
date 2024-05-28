@@ -1,0 +1,29 @@
+{
+  "name": "@opensemanticworld/osw",
+  "version": "0.0.1",
+  "description": "Node package for opensemanticworld.",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "build": "tsup",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/opensemanticworld/osw-npm.git"
+  },
+  "keywords": [
+    "opensemanticworld"
+  ],
+  "author": "raederan",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/opensemanticworld/osw-npm/issues"
+  },
+  "homepage": "https://github.com/opensemanticworld/osw-npm#readme",
+  "devDependencies": {
+    "tsup": "^8.0.2",
+    "typescript": "^5.4.5"
+  }
+}
