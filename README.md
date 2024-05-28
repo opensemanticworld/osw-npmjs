@@ -5,13 +5,10 @@ This package provides a common set of tools and utilities for the Open Semantic 
 Table of Contents
 
 - [@opensemanticworld/osw](#opensemanticworldosw)
-  - [Installation](#installation)
   - [Usage](#usage)
   - [Contribution](#contribution)
   - [Authors](#authors)
   - [Licence](#licence)
-
-## Installation
 
 ## Usage
 
