@@ -1,0 +1,5 @@
+---
+"@opensemanticworld/osw": patch
+---
+
+Init
